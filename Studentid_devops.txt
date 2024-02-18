@@ -1,0 +1,2 @@
+Learning how to operate github using VScode (Git practices). 
+Learning different data formats and types like JSON and YAML.
