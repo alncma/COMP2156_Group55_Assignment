@@ -11,7 +11,7 @@ Around 2007 & 2008, concerns were raised by those within the software developmen
 
 In 2009, the first conference named DevOps Days was held in Ghent, Belgium. The conference was founded by Belgian consultant, project manager and agile practitioner Patrick Debois.[4][5] The conference has now spread to other countries.
 
-In 2012, a report called "State of DevOps" was first published by Alanna Brown at Puppet Labs.[7][8]
+In 2012, a report called "State of DevOps" was first published by Alanna Brown at Puppet Labs.
 
 As of 2014, the annual State of DevOps report was published by Nicole Forsgren, Gene Kim, Jez Humble and others. They stated that the adoption of DevOps was accelerating.[9][10] Also in 2014, Lisa Crispin and Janet Gregory wrote the book More Agile Testing, containing a chapter on testing and DevOps.[11][12]
 
