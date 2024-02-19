@@ -15,4 +15,4 @@ In 2012, a report called "State of DevOps" was first published by Alanna Brown a
 
 As of 2014, the annual State of DevOps report was published by Nicole Forsgren, Gene Kim, Jez Humble and others. They stated that the adoption of DevOps was accelerating.[9][10] Also in 2014, Lisa Crispin and Janet Gregory wrote the book More Agile Testing, containing a chapter on testing and DevOps.
 
-In 2016, the DORA metrics for throughput (deployment frequency, lead time for changes), and stability (mean time to recover, change failure rate) were published in the State of DevOps report.[7] However, the research methodology and metrics were criticized by experts.[13][14][15][16]
+In 2016, the DORA metrics for throughput (deployment frequency, lead time for changes), and stability (mean time to recover, change failure rate) were published in the State of DevOps report.[7] However, the research methodology and metrics were criticized by experts.
